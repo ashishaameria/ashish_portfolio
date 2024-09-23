@@ -1,55 +1,55 @@
-# Credit Card Transaction Analysis
+# Data Scientist
 
-This project provides a detailed SQL-based analysis of credit card transaction data. The goal is to extract meaningful insights from the dataset, such as spending patterns across cities, card types, and expense categories. By using advanced SQL queries, we aim to offer a comprehensive understanding of consumer behavior, transaction trends, and potential growth opportunities.
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
----
+## Education
+- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
-## Project Overview
+## Work Experience
+**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-This project includes several SQL queries to analyze credit card transactions, uncovering insights such as the top spending cities, most popular expense types, and card-specific patterns. Each query addresses a specific business problem or opportunity, helping in strategic decision-making for targeted marketing and customer segmentation.
+**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
----
+## Projects
+### Data-Driven EEG Band Discovery with Decision Trees
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-## Queries and Key Insights
+Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-1. **Top 5 Cities by Total Credit Card Spend**
-   - **Inference:** Major metropolitan areas like **Mumbai**, **Bengaluru**, **Ahmedabad**, and **Delhi** account for over 55% of total credit card spending, highlighting them as key economic hubs.
-  
-2. **Highest Spend Month for Each Card Type**
-   - **Inference:** Spending peaks vary by card type, with **Gold card** spend highest in **January**, likely driven by post-holiday activity, and **Signature card** usage peaking in **December**, coinciding with holiday shopping.
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-3. **Cumulative Spend of 1 Million for Each Card Type**
-   - **Inference:** Key cities like **Delhi** and **Ahmedabad** contributed significantly to early milestones, such as reaching cumulative spends of over 1 million for **Gold**, **Platinum**, and **Signature** cards within the first few months.
+### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-4. **City with Lowest Percentage Spend for Gold Card**
-   - **Inference:** In **Dhamtari**, **Gold card** usage was notably low (0.33%), suggesting room for growth and targeted promotion of premium cards in smaller cities.
+Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-5. **City-wise Highest and Lowest Expense Types**
-   - **Inference:** Expense preferences differ by city, with **Grocery** being the top expense in some cities while categories like **Entertainment** saw the least spend, highlighting regional consumption patterns.
+![Bike Study](/assets/img/bike_study.jpeg)
 
-6. **Percentage of Spends by Females for Each Expense Type**
-   - **Inference:** Female consumers dominate in spending on **Bills** (63.95%) and are nearly equally represented in categories like **Food** and **Grocery**, showing their strong influence in household financial decisions.
+## Talks & Lectures
+- Causality: The new science of an old question - GSP Seminar, Fall 2021
+- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
+- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
+- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
+- Weeks of Welcome Poster Competition - UTD, Fall 2019
+- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-7. **Highest Month-over-Month Growth in January 2014**
-   - **Inference:** **Travel spending on Gold cards** saw a significant growth of **87.92%** from December 2013 to January 2014, likely due to post-holiday travel planning.
+- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
-8. **City with Highest Weekend Spend-to-Transaction Ratio**
-   - **Inference:** **Sonepur** recorded a very high weekend **spend-to-transaction ratio**, indicating the presence of large, high-value transactions during weekends.
+## Publications
+1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
+2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
+3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
+4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
+5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
+6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
+7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
+8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
+9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-9. **City Reaching 500 Transactions Fastest**
-   - **Inference:** **Bengaluru** reached 500 transactions in just **81 days**, reflecting a high level of transaction activity and consumer engagement.
-
----
-
-## Tools and Technologies
-
-- **SQL**: Primary tool for querying and analyzing the dataset.
-- **GitHub**: Project hosted on GitHub for version control and collaboration.
-
----
-
-## How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/credit-card-transaction-analysis.git
+- [Data Science Blog](https://medium.com/@shawhin)
