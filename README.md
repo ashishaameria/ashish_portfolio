@@ -7,27 +7,11 @@ This project involves an analysis of my personal Swiggy food delivery data, sour
 
 **Key Insights & Queries:**
 
-- **Jaipur** led with **55% of orders** delivered faster than average. In **Pune**, deliveries over **7 km** took **61 minutes**, while **Jaipur** and **Noida** saw **20-30% slower** times for distances beyond **5 km**.
-- Discounts were applied in **78% of orders**, yielding **28% total savings** and showing their effectiveness in incentivizing purchases without lowering order value.
-- **Pune** had **75% of orders** after **9 PM**, compared to **45% in Jaipur** and **83% in Noida** during the evening, with only **2%** after midnight.
-- Orders between **6-11 PM** averaged **Rs 205**, about **12% higher** than daytime, indicating a preference for higher-value meals during dinner.
-- In **Noida**, **56% of orders** came from **5 restaurants**, while **Pune** had **100% variety** across different restaurants. **Jaipur** showed **55% concentration** from **3 restaurants**.
----
-Here’s a more concise version of your insights, modeled after the provided example:
-
----
-
 - Jaipur led with **55%** of orders delivered faster than average. **Pune**'s deliveries over **7 km** took **61 minutes**; **Jaipur** and **Noida** saw **20-30% slower** times beyond **5 km**.
 - Discounts were used in **78%** of orders, yielding **28% savings** and showing their effectiveness in driving purchases.
 - **Pune** had **75%** of orders after **9 PM**, compared to **45%** in **Jaipur** and **83%** in **Noida**, with only **2%** after midnight.
 - Orders from **6-11 PM** averaged **Rs 205**, **12% higher** than daytime, indicating a preference for premium meals at dinner.
 - In **Noida**, **56%** of orders came from **5 restaurants**; **Pune** featured **100% variety**, while **Jaipur** had **55%** from **3 restaurants**.
-
----
-
-Let me know if you'd like any changes!
-
-
 
 **Tools:**  
 - **Web Scraping**: Used to collect personal Swiggy data.  
