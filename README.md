@@ -9,7 +9,7 @@ This project involves an analysis of my personal Swiggy food delivery data, sour
 
 - **Jaipur** led with **55% of orders delivered faster** than average. **Pune's** deliveries **over 7 km** took **61 minutes**; **Jaipur** and **Noida** saw **20-30% slower** times **beyond 5 km**.
 - **Discounts** were used in **78% of orders**, yielding **28% savings** and showing their effectiveness in driving purchases.
-- **Pune** had **75%** of **orders after 9 PM**, compared to **45%** in **Jaipur** and **83%** in **Noida**, with only **2%** after **midnight**.
+- **Pune** had **75% of orders after 9 PM**, compared to **45%** in **Jaipur** and **83%** in **Noida**, with only **2%** after **midnight**.
 - Orders from **6-11 PM averaged Rs 205**, **12% higher** than **daytime**, indicating a preference for premium meals at dinner.
 - In **Noida**, **56% of orders** came from **5 restaurants**; **Pune** featured **100% variety**, while **Jaipur** had **55%** from **3 restaurants**.
 
