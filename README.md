@@ -1,6 +1,6 @@
 # Portfolio Projects
 
-## [Project 1 - Analysis on personal Swiggy data](https://https://github.com/ashishaameria/swiggy_sql)
+## [Project 1 - Analysis on personal Swiggy data](https://github.com/ashishaameria/swiggy_sql)
  
 **Overview:**  
 This project involves an analysis of my personal Swiggy food delivery data, sourced through **web scraping** over a **one-year** period across **Pune, Jaipur, and Noida**. The analysis aims to uncover key insights into ordering patterns, delivery performance, spending trends, and customer behavior, distinguishing this project from typical datasets commonly used in the industry.
