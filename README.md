@@ -3,7 +3,7 @@
 ## [Project 1 - Analysis on personal Swiggy data](https://github.com/ashishaameria/swiggy_sql)
  
 **Overview:**  
-This project involves an analysis of my personal Swiggy food delivery data, sourced through **web scraping** over a **one-year** period across **Pune, Jaipur, and Noida**. The analysis aims to uncover key insights into ordering patterns, delivery performance, spending trends, and customer behavior, distinguishing this project from typical datasets commonly used in the industry.
+This project involves an analysis of my personal Swiggy food delivery data, sourced through **web scraping** over a **one-year** period across **Pune, Jaipur, and Noida**. The analysis aims to uncover key insights into ordering patterns, delivery performance, spending trends, and customer behavior, distinguishing this project from typical datasets commonly used in personal projects.
 
 **Key Insights & Queries:**
 
@@ -27,7 +27,7 @@ This project involves an SQL-based analysis of credit card transaction data to u
 
 ### Key Insights & Queries:
 - Major hubs like **Mumbai, Bengaluru, and Delhi** account for over **55%** of total spending.
-- Cities like **Delhi and Ahmedabad** contributed to early cumulative spend milestones of **1 million** for premium card types.
+- Cities like **Delhi and Ahmedabad** contributed to early cumulative spend milestones of **1 million fastest** for premium card types.
 - **Grocery** is a **top category**, while **entertainment** sees **lower spend** in certain regions.
 - **Women** lead in spending on **bills (63.95%)** and have a strong presence in food and grocery categories.
 - **Bengaluru** hit **500 transactions in just 81 days**, reflecting strong consumer activity.
@@ -47,7 +47,7 @@ This project leverages SQL to analyze Olympic Games data, identifying medal tren
 - **India's** Olympic journey includes early medals in **1900**(silver), **1924**(gold), and **1952**(bronze).
 - Athletes like **Eddie Eagan** excelled in **both summer and winter** games.
 - **Aliya Mustafina** and **Dana Vollmer** showcased versatility by winning **gold, silver, and bronze in a single Olympic year**.
-- Athletes like **Michael Phelps** have shown dominance by winning **gold in three consecutive Summer Olympics**.
+- Athletes like **Michael Phelps** have shown dominance by winning **gold in 3 consecutive Summer Olympics**.
 
 ### Tools:
 - SQL for querying and analysis.
