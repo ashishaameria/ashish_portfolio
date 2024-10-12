@@ -20,7 +20,7 @@ This project involves an analysis of my personal Swiggy food delivery data, sour
 
 ---
 
-## [Project 2 - Credit Card Transaction Analysis](https://https://github.com/ashishaameria/credit_card_sql)
+## [Project 2 - Credit Card Transaction Analysis](https://github.com/ashishaameria/credit_card_sql)
 
 ### Overview:
 This project involves an SQL-based analysis of credit card transaction data to uncover insights such as spending patterns, top cities for spending, and card-specific trends. The analysis aims to inform strategic decision-making for customer segmentation and targeted marketing.
@@ -37,7 +37,7 @@ This project involves an SQL-based analysis of credit card transaction data to u
 
 ---
 
-## [Project 3 - Olympics Medal Analysis Project](https://https://github.com/ashishaameria/olympics_sql)
+## [Project 3 - Olympics Medal Analysis Project](https://github.com/ashishaameria/olympics_sql)
 
 ### Overview:
 This project leverages SQL to analyze Olympic Games data, identifying medal trends, standout athletes, and historical patterns in Olympic performance. It provides insights into top-performing athletes, countries, and unique Olympic achievements.
@@ -54,7 +54,7 @@ This project leverages SQL to analyze Olympic Games data, identifying medal tren
 
 ---
 
-## [Project 4 - Focus Time Log & Analysis App](https://https://github.com/ashishaameria/time_log_analysis_app_python)
+## [Project 4 - Focus Time Log & Analysis App](https://github.com/ashishaameria/time_log_analysis_app_python)
 
 ### Overview:
 This Python-based desktop app tracks time spent on tasks and provides insights into personal productivity through data visualization and analysis. **Developed completely using ChatGPT**, this personal project was designed to improve the understanding of **AI-assisted** development and explore how communicating with AI tools applies to a Data Analyst role. It demonstrates key skills like data collection, visualization, and automation.
